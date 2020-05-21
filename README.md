@@ -61,4 +61,4 @@ Congrats!
 You can now use your LT-plugins now!
 
 - [Hangul Combination](https://github.com/hwoongkang/LT-Hangul-Combination)
-- Component Manager(To be released)
+- [Component Manager](https://github.com/hwoongkang/LT-Component-Manager)
