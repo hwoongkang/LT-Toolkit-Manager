@@ -6,7 +6,7 @@ This is a toolkit license manager for the plugins made by [Leedotype](https://le
 
 You can install this plugin using Glyphs plugin manager.
 
-After installing the plugin, you will see a new LT menu generated.
+After installing the plugin, you will see a new **"Leedotype Plugins"** menu generated under the Edit menu.
 
 ![menubar](./images/menubar.png)
 
@@ -37,7 +37,7 @@ You can contact [Kang Hyunwoong](mailto://hyunwoong.kang@leedotype.com)(hyunwoon
 
 You can now log in to authenticate the plugins.
 
-Click _LT->Login_ to open a login window.
+Click _Edit->Leedotype Plugins->Login_ to open a login window.
 
 ![menuitem](./images/menuitem.png)
 ![login](./images/login.png)
